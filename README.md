@@ -1,7 +1,7 @@
 ### Olá, meu nome é Louis Christophe.
 👋🏻
 ### Minhas redes sociais:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-christophe-moreno-de-araujo-e-goes-gon%C3%A7alves-b4125116b/)
+[![linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-christophe-moreno-de-araujo-e-goes-gon%C3%A7alves-b4125116b/](https://www.linkedin.com/in/dev-louisc/)](https://www.linkedin.com/in/dev-louisc/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/louis.christophe.334/)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/louis.christophe.334/)
