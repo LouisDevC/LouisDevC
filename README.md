@@ -1,3 +1,6 @@
+`-------------------------------------------------`  
+**Nota:**
+- os tópicos a baixo não são de relevância para outtras pessoas, porém fique a vontade para ler.
 ## a partir de **02/09/24**:
 
 ``*eu me comprometo a*:
