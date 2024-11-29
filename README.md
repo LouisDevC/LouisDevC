@@ -8,7 +8,9 @@
  ![Html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white) 
  ![css](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=Javascript&logoColor=yellow)
-- **Estudanto:**   
+- **Estudanto:**
+  Acessibilidade web;
+  SEO
 ![Axios](https://img.shields.io/badge/axios-white?style=for-the-badge&logo=axios&logoColor=blue)
 ![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=blue)
 - **Ferramentas:**  
